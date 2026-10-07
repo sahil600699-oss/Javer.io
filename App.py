@@ -141,7 +141,8 @@ async def main():
             'cogs.autoresponder',
             'cogs.premium',
             'cogs.card',
-            'cogs.cgame.leaderboard'
+            'cogs.cgame.leaderboard',
+            'cogs.webhook',
         ]
 
         for cog in cogs:
