@@ -139,6 +139,7 @@ async def main():
             'cogs.autosend',
             'cogs.afk',
             'cogs.autoresponder',
+            'cogs.sc_permission_manager',
             'cogs.premium',
             'cogs.card',
             'cogs.cgame.leaderboard',
