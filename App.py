@@ -137,6 +137,7 @@ async def main():
             'cogs.modlogs',
             'cogs.xo',
             'cogs.autosend',
+            'cogs.emojimanage',
             'cogs.afk',
             'cogs.autoresponder',
             'cogs.sc_permission_manager',
